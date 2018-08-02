@@ -7,5 +7,5 @@ The Software create by PYTHON.
 
 In this tutorial, You can learn PYTHON and also create a software Accounting - General Ledger.
 
-Eventhough the General Ledger system in the very standard form, its hopefully will inspire and give 
+Even though the General Ledger system in the very standard form, hopefully it will inspire and give 
 an experience in creating more complex and complicated software with PYTHON.
